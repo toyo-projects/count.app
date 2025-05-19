@@ -35,28 +35,28 @@ Material Design：Flutter標準のスタイルとテーマ構成
 
 # 📂 ファイル構成（主要）
 lib/
-
-├── main.dart                       
 // アプリ起動・画面構成
+　 main.dart                       
 
-├── models/
- └── counter_model.dart         
  // 状態管理クラス
+models/
+　counter_model.dart         
 
-├── screens/
-│   ├── first_screen.dart         
 // メイン画面（カウント操作）
+screens/
+　first_screen.dart         
 
-│   └── second_screen.dart         
 // 詳細画面（数値表示）
+second_screen.dart         
 
-├── widgets/
-│   └── custom_count_button.dart   
 // 共通ボタンウィジェット
+widgets/
+　custom_count_button.dart   
 
-└── utils/
-    └── dialog_helper.dart         
 // 確認ダイアログの共通化
+utils/
+　dialog_helper.dart         
+
     
 #🎯 学習目的
 ・FlutterでのUI設計とアーキテクチャ構成の基礎理解
