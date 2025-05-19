@@ -3,6 +3,11 @@
 Flutterを用いて開発した、基本機能から状態管理・UI改善までを取り入れたカウントアプリです。
 ポートフォリオ用の学習成果として、以下の構成と技術的工夫を含んでいます。
 
+<img width="362" alt="スクリーンショット 2025-05-19 16 41 27" src="https://github.com/user-attachments/assets/10fcda66-d41b-41a5-832b-c7a7a466486b" />
+<img width="362" alt="スクリーンショット 2025-05-19 16 44 07" src="https://github.com/user-attachments/assets/0e533c92-d552-4f70-8b21-2ab40c6146b8" />
+<img width="362" alt="スクリーンショット 2025-05-19 16 41 27" src="https://github.com/user-attachments/assets/eaa8799a-878d-4041-95ea-fcafe49b76c5" />
+
+
 # 🚀 主な機能
 ✅ カウントアップ・カウントダウン・リセット機能
 
