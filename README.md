@@ -22,14 +22,14 @@ Flutterを用いて開発した、基本機能から状態管理・UI改善ま�
 
 🧼 入力フィールドのメモリ管理（dispose）
 
-#🛠️ 使用技術
+# 🛠️ 使用技術
 UI構築・アプリ全体構成：Flutter
 プログラミング言語：Dart
 Provider：アプリ内状態管理（ChangeNotifier）
 shared_preferences：データ永続化（カウント値の保存と読み込み）
 Material Design：Flutter標準のスタイルとテーマ構成
 
-#📂 ファイル構成（主要）
+# 📂 ファイル構成（主要）
 lib/
 ├── main.dart                       // アプリ起動・画面構成
 ├── models/
